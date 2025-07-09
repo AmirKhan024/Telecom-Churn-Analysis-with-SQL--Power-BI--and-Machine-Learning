@@ -29,4 +29,12 @@
    Evaluated the model using metrics like accuracy, precision, recall, and F1-score.
 
  ## Power BI Dashboard:
- https://app.powerbi.com/groups/me/reports/7d89de4a-98cc-4781-be6f-547f6eba7a4d/2604a93df04e44c8140a?experience=power-bi
+ [Dashboard](https://app.powerbi.com/groups/me/reports/7d89de4a-98cc-4781-be6f-547f6eba7a4d/2604a93df04e44c8140a?experience=power-bi)
+
+![churn_telecom_first](https://github.com/user-attachments/assets/c44f82f8-da97-4f3d-b607-8c5db486fad0)
+
+![churn_telecom_second](https://github.com/user-attachments/assets/90288614-0b1a-4161-b958-28d504d3bb51)
+
+
+
+ 
